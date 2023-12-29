@@ -113,6 +113,7 @@
                 "رایگان | SS | @VmessProtocol | HK🇭🇰 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | KR🇰🇷 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | TW🇹🇼 | 0️⃣3️⃣",
+                "رایگان | SS | @forwardv2ray | SG🇸🇬 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | JP🇯🇵 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @FAKEOFTVC | CH🇨🇭 | 0️⃣3️⃣",
@@ -127,6 +128,7 @@
                 "رایگان | SS | @VmessProtocol | HK🇭🇰 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | KR🇰🇷 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | TW🇹🇼 | 0️⃣3️⃣",
+                "رایگان | SS | @forwardv2ray | SG🇸🇬 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | JP🇯🇵 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @FAKEOFTVC | CH🇨🇭 | 0️⃣3️⃣",
@@ -164,6 +166,16 @@
             "server_port": 2203,
             "method": "chacha20-ietf-poly1305",
             "password": "88162ed0-5a4d-4d7b-8a5c-ed5b5fa70e0d",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @forwardv2ray | SG🇸🇬 | 0️⃣1️⃣",
+            "type": "shadowsocks",
+            "server": "singapore.telegavpn.org",
+            "server_port": 16759,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ei1KfHvNNdIBWK2OVfqnAz",
             "plugin": "",
             "plugin_opts": ""
         },
