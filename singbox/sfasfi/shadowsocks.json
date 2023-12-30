@@ -107,12 +107,10 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "DE🇩🇪",
-                "AT🇦🇹",
                 "GB🇬🇧",
-                "US🇺🇸",
-                "SG🇸🇬",
+                "AT🇦🇹",
                 "KR🇰🇷",
-                "CH🇨🇭",
+                "US🇺🇸",
                 "SE🇸🇪"
             ]
         },
@@ -121,16 +119,16 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣1️⃣",
+                "رایگان | SS | @kingofilter | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
-                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
-                "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | SS | @FAKEOFTVC | SG🇸🇬 | 0️⃣1️⃣",
-                "رایگان | SS | @FAKEOFTVC | SG🇸🇬 | 0️⃣2️⃣",
-                "رایگان | SS | @FAKEOFTVC | KR🇰🇷 | 0️⃣3️⃣",
-                "رایگان | SS | @FAKEOFTVC | CH🇨🇭 | 0️⃣4️⃣",
-                "رایگان | SS | @FAKEOFTVC | SE🇸🇪 | 0️⃣6️⃣"
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣4️⃣",
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣5️⃣",
+                "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣2️⃣",
+                "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣3️⃣",
+                "رایگان | SS | @FAKEOFTVC | KR🇰🇷 | 0️⃣1️⃣",
+                "رایگان | SS | @FAKEOFTVC | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | SS | @FAKEOFTVC | SE🇸🇪 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -140,17 +138,8 @@
             "tag": "DE🇩🇪",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣1️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "AT🇦🇹",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣1️⃣"
+                "رایگان | SS | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | SS | @kingofilter | DE🇩🇪 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -160,30 +149,21 @@
             "tag": "GB🇬🇧",
             "type": "urltest",
             "outbounds": [
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
-                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
-                "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣1️⃣"
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣4️⃣",
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣5️⃣",
+                "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
         },
         {
-            "tag": "US🇺🇸",
+            "tag": "AT🇦🇹",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "SG🇸🇬",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | SS | @FAKEOFTVC | SG🇸🇬 | 0️⃣1️⃣",
-                "رایگان | SS | @FAKEOFTVC | SG🇸🇬 | 0️⃣2️⃣"
+                "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -193,17 +173,17 @@
             "tag": "KR🇰🇷",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @FAKEOFTVC | KR🇰🇷 | 0️⃣3️⃣"
+                "رایگان | SS | @FAKEOFTVC | KR🇰🇷 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
         },
         {
-            "tag": "CH🇨🇭",
+            "tag": "US🇺🇸",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @FAKEOFTVC | CH🇨🇭 | 0️⃣4️⃣"
+                "رایگان | SS | @FAKEOFTVC | US🇺🇸 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -213,7 +193,7 @@
             "tag": "SE🇸🇪",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @FAKEOFTVC | SE🇸🇪 | 0️⃣6️⃣"
+                "رایگان | SS | @FAKEOFTVC | SE🇸🇪 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -230,17 +210,37 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @kingofilter | DE🇩🇪 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "5.181.21.19",
+            "server": "passconf.xyz",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "qGjmI8WQlF0tfhDbkLqGdN",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
+            "type": "shadowsocks",
+            "server": "uk1.ssproxy.xyz",
             "server_port": 8388,
             "method": "chacha20-ietf-poly1305",
-            "password": "Njk2Nzcy",
+            "password": "NjJkZmYw",
             "plugin": "",
             "plugin_opts": ""
         },
         {
             "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
+            "type": "shadowsocks",
+            "server": "51.141.100.85",
+            "server_port": 28521,
+            "method": "chacha20-ietf-poly1305",
+            "password": "NK4KTpH4GbWznkJywV7VmA",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣4️⃣",
             "type": "shadowsocks",
             "server": "95.164.37.226",
             "server_port": 8388,
@@ -250,7 +250,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
+            "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣5️⃣",
             "type": "shadowsocks",
             "server": "51.141.101.197",
             "server_port": 65167,
@@ -260,7 +260,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣2️⃣",
             "type": "shadowsocks",
             "server": "52.142.161.9",
             "server_port": 34424,
@@ -270,37 +270,17 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @forwardv2ray | US🇺🇸 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣3️⃣",
             "type": "shadowsocks",
-            "server": "45.8.146.35",
-            "server_port": 47413,
+            "server": "5.181.21.19",
+            "server_port": 8388,
             "method": "chacha20-ietf-poly1305",
-            "password": "U1EYRQpU8rLGRKvDMfR6Fv",
+            "password": "Njk2Nzcy",
             "plugin": "",
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @FAKEOFTVC | SG🇸🇬 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "3.1.81.236",
-            "server_port": 443,
-            "method": "aes-256-cfb",
-            "password": "amazonskr05",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @FAKEOFTVC | SG🇸🇬 | 0️⃣2️⃣",
-            "type": "shadowsocks",
-            "server": "18.142.250.63",
-            "server_port": 443,
-            "method": "aes-256-cfb",
-            "password": "amazonskr05",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @FAKEOFTVC | KR🇰🇷 | 0️⃣3️⃣",
+            "tag": "رایگان | SS | @FAKEOFTVC | KR🇰🇷 | 0️⃣1️⃣",
             "type": "shadowsocks",
             "server": "13.124.93.250",
             "server_port": 443,
@@ -310,17 +290,17 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @FAKEOFTVC | CH🇨🇭 | 0️⃣4️⃣",
+            "tag": "رایگان | SS | @FAKEOFTVC | US🇺🇸 | 0️⃣2️⃣",
             "type": "shadowsocks",
-            "server": "94.131.12.245",
-            "server_port": 37726,
+            "server": "45.8.146.35",
+            "server_port": 47413,
             "method": "chacha20-ietf-poly1305",
-            "password": "AK4J1sRt2v3dLDUVC2P5lj",
+            "password": "U1EYRQpU8rLGRKvDMfR6Fv",
             "plugin": "",
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @FAKEOFTVC | SE🇸🇪 | 0️⃣6️⃣",
+            "tag": "رایگان | SS | @FAKEOFTVC | SE🇸🇪 | 0️⃣3️⃣",
             "type": "shadowsocks",
             "server": "45.8.147.80",
             "server_port": 5741,
