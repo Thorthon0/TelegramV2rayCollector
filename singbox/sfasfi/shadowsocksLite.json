@@ -114,14 +114,15 @@
                 "رایگان | SS | @V2rayCollectorDonate | FR🇫🇷 | 0️⃣2️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣1️⃣",
-                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
-                "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣3️⃣",
+                "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣2️⃣",
+                "رایگان | SS | @forwardv2ray | AM🇦🇲 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | ES🇪🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @FAKEOFTVC | TR🇹🇷 | 0️⃣3️⃣",
                 "رایگان | SS | @FAKEOFTVC | FR🇫🇷 | 0️⃣4️⃣",
                 "رایگان | SS | @FAKEOFTVC | HR🇭🇷 | 0️⃣5️⃣",
                 "رایگان | SS | @FAKEOFTVC | AM🇦🇲 | 0️⃣6️⃣",
+                "رایگان | SS | @proxy_mtm | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @kingofilter | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | SS | @kingofilter | DE🇩🇪 | 0️⃣2️⃣"
             ]
@@ -138,14 +139,15 @@
                 "رایگان | SS | @V2rayCollectorDonate | FR🇫🇷 | 0️⃣2️⃣",
                 "رایگان | SS | @V2rayCollectorDonate | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | SS | @VmessProtocol | RU🇷🇺 | 0️⃣1️⃣",
-                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
-                "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣3️⃣",
+                "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣2️⃣",
+                "رایگان | SS | @forwardv2ray | AM🇦🇲 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | ES🇪🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @FAKEOFTVC | TR🇹🇷 | 0️⃣3️⃣",
                 "رایگان | SS | @FAKEOFTVC | FR🇫🇷 | 0️⃣4️⃣",
                 "رایگان | SS | @FAKEOFTVC | HR🇭🇷 | 0️⃣5️⃣",
                 "رایگان | SS | @FAKEOFTVC | AM🇦🇲 | 0️⃣6️⃣",
+                "رایگان | SS | @proxy_mtm | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @kingofilter | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | SS | @kingofilter | DE🇩🇪 | 0️⃣2️⃣"
             ],
@@ -234,22 +236,22 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
-            "type": "shadowsocks",
-            "server": "series-a2-me.samanehha.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "Bog0ELmMM9DSxDdQ",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣3️⃣",
+            "tag": "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣2️⃣",
             "type": "shadowsocks",
             "server": "77.246.101.245",
             "server_port": 1165,
             "method": "chacha20-ietf-poly1305",
             "password": "yx-P9aygNM-V-boO1UGQeg",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @forwardv2ray | AM🇦🇲 | 0️⃣1️⃣",
+            "type": "shadowsocks",
+            "server": "146.185.248.22",
+            "server_port": 989,
+            "method": "YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw",
+            "password": "",
             "plugin": "",
             "plugin_opts": ""
         },
@@ -310,6 +312,16 @@
             "server_port": 989,
             "method": "aes-256-cfb",
             "password": "f8f7aCzcPKbsF8p3",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @proxy_mtm | NL🇳🇱 | 0️⃣1️⃣",
+            "type": "shadowsocks",
+            "server": "89.19.216.18",
+            "server_port": 8388,
+            "method": "chacha20-ietf-poly1305",
+            "password": "NC7jORVNrruV\/+3+PwOJrnnOeG7n75X1",
             "plugin": "",
             "plugin_opts": ""
         },
