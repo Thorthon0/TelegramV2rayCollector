@@ -131,10 +131,10 @@
                 "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
-                "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣3️⃣",
+                "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣4️⃣",
                 "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣5️⃣",
+                "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣6️⃣",
                 "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣3️⃣",
                 "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣4️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣1️⃣",
@@ -175,10 +175,10 @@
             "outbounds": [
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
-                "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣3️⃣",
+                "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣4️⃣",
-                "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣5️⃣"
+                "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣5️⃣",
+                "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣6️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -306,7 +306,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣2️⃣",
             "type": "shadowsocks",
             "server": "series-a2-me.samanehha.co",
             "server_port": 443,
@@ -316,7 +316,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣3️⃣",
+            "tag": "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣4️⃣",
             "type": "shadowsocks",
             "server": "95.164.37.226",
             "server_port": 8388,
@@ -326,7 +326,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣4️⃣",
+            "tag": "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣5️⃣",
             "type": "shadowsocks",
             "server": "series-a2.samanehha.co",
             "server_port": 443,
@@ -336,7 +336,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣5️⃣",
+            "tag": "رایگان | SS | @kingofilter | GB🇬🇧 | 0️⃣6️⃣",
             "type": "shadowsocks",
             "server": "series-a1.samanehha.co",
             "server_port": 443,
