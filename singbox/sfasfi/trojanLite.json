@@ -124,11 +124,10 @@
                 "رایگان | TROJAN | @V2RayTz | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @yaney_01 | HK🇭🇰 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @FAKEOFTVC | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @FAKEOFTVC | FR🇫🇷 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @FAKEOFTVC | FR🇫🇷 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @kingofilter | US🇺🇸 | 0️⃣1️⃣"
+                "رایگان | TROJAN | @kingofilter | CA🇨🇦 | 0️⃣1️⃣"
             ]
         },
         {
@@ -153,11 +152,10 @@
                 "رایگان | TROJAN | @V2RayTz | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @yaney_01 | HK🇭🇰 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @FAKEOFTVC | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @FAKEOFTVC | FR🇫🇷 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @FAKEOFTVC | FR🇫🇷 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @kingofilter | US🇺🇸 | 0️⃣1️⃣"
+                "رایگان | TROJAN | @kingofilter | CA🇨🇦 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -563,18 +561,6 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @yaney_01 | HK🇭🇰 | 0️⃣1️⃣",
-            "type": "trojan",
-            "server": "hk03.trojanyyds.xyz",
-            "server_port": 443,
-            "password": "93ec7261-1c92-4149-848a-26b6fb9fc4ce",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
             "tag": "رایگان | TROJAN | @FAKEOFTVC | CA🇨🇦 | 0️⃣1️⃣",
             "type": "trojan",
             "server": "172.66.47.74",
@@ -645,7 +631,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
+            "tag": "رایگان | TROJAN | @kingofilter | CA🇨🇦 | 0️⃣1️⃣",
             "type": "trojan",
             "server": "104.17.186.227",
             "server_port": 443,
