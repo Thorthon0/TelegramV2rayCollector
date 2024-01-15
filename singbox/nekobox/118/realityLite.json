@@ -117,7 +117,7 @@
                 "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @DailyV2RY | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @DailyV2RY | AU🇦🇺 | 0️⃣5️⃣",
+                "رایگان | REALITY | @DailyV2RY | AU🇦🇺 | 0️⃣4️⃣",
                 "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣2️⃣",
@@ -196,10 +196,9 @@
                 "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣7️⃣",
                 "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣8️⃣",
                 "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣9️⃣",
-                "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 5️⃣0️⃣",
-                "رایگان | REALITY | @Nika_Shakarami | Donated | SE🇸🇪 | 5️⃣1️⃣",
-                "رایگان | REALITY | @Nika_Shakarami | Donated | SE🇸🇪 | 5️⃣3️⃣",
-                "رایگان | REALITY | @Nika_Shakarami | Donated | SE🇸🇪 | 5️⃣7️⃣"
+                "رایگان | REALITY | @Nika_Shakarami | Donated | SE🇸🇪 | 5️⃣0️⃣",
+                "رایگان | REALITY | @Nika_Shakarami | Donated | SE🇸🇪 | 5️⃣2️⃣",
+                "رایگان | REALITY | @Nika_Shakarami | Donated | SE🇸🇪 | 5️⃣6️⃣"
             ]
         },
         {
@@ -213,7 +212,7 @@
                 "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @DailyV2RY | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @DailyV2RY | AU🇦🇺 | 0️⃣5️⃣",
+                "رایگان | REALITY | @DailyV2RY | AU🇦🇺 | 0️⃣4️⃣",
                 "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣2️⃣",
@@ -292,10 +291,9 @@
                 "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣7️⃣",
                 "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣8️⃣",
                 "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣9️⃣",
-                "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 5️⃣0️⃣",
-                "رایگان | REALITY | @Nika_Shakarami | Donated | SE🇸🇪 | 5️⃣1️⃣",
-                "رایگان | REALITY | @Nika_Shakarami | Donated | SE🇸🇪 | 5️⃣3️⃣",
-                "رایگان | REALITY | @Nika_Shakarami | Donated | SE🇸🇪 | 5️⃣7️⃣"
+                "رایگان | REALITY | @Nika_Shakarami | Donated | SE🇸🇪 | 5️⃣0️⃣",
+                "رایگان | REALITY | @Nika_Shakarami | Donated | SE🇸🇪 | 5️⃣2️⃣",
+                "رایگان | REALITY | @Nika_Shakarami | Donated | SE🇸🇪 | 5️⃣6️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -519,7 +517,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @DailyV2RY | AU🇦🇺 | 0️⃣5️⃣",
+            "tag": "رایگان | REALITY | @DailyV2RY | AU🇦🇺 | 0️⃣4️⃣",
             "type": "vless",
             "server": "192.99.158.243",
             "server_port": 80,
@@ -2139,34 +2137,6 @@
             "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 2️⃣7️⃣",
             "type": "vless",
             "server": "104.168.107.230",
-            "server_port": 6443,
-            "uuid": "e1f54f54-c530-4e9c-a3ff-ec5e2bf83196",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "patreon.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "PsF4GNZmI_RZ681HESJ7H1st4FKgNoNpJ3QDJZqw43A",
-                    "short_id": "42d6e051c52f4684"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 2️⃣8️⃣",
-            "type": "vless",
-            "server": "104.168.107.230",
             "server_port": 6481,
             "uuid": "87c7ef7e-ebfc-4e87-9537-f1d4d9da2821",
             "flow": "xtls-rprx-vision",
@@ -2192,7 +2162,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 2️⃣9️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 2️⃣8️⃣",
             "type": "vless",
             "server": "104.168.107.230",
             "server_port": 6722,
@@ -2220,7 +2190,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 3️⃣0️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 2️⃣9️⃣",
             "type": "vless",
             "server": "104.168.107.230",
             "server_port": 6794,
@@ -2248,7 +2218,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 3️⃣1️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 3️⃣0️⃣",
             "type": "vless",
             "server": "104.168.107.230",
             "server_port": 6855,
@@ -2276,7 +2246,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 3️⃣2️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 3️⃣1️⃣",
             "type": "vless",
             "server": "104.168.107.230",
             "server_port": 7321,
@@ -2304,7 +2274,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 3️⃣3️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 3️⃣2️⃣",
             "type": "vless",
             "server": "104.168.107.230",
             "server_port": 7550,
@@ -2332,7 +2302,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 3️⃣4️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 3️⃣3️⃣",
             "type": "vless",
             "server": "104.168.107.230",
             "server_port": 7640,
@@ -2360,7 +2330,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 3️⃣5️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 3️⃣4️⃣",
             "type": "vless",
             "server": "104.168.107.230",
             "server_port": 7667,
@@ -2388,7 +2358,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 3️⃣6️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 3️⃣5️⃣",
             "type": "vless",
             "server": "104.168.107.230",
             "server_port": 7970,
@@ -2416,7 +2386,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 3️⃣7️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 3️⃣6️⃣",
             "type": "vless",
             "server": "104.168.107.230",
             "server_port": 8174,
@@ -2444,7 +2414,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 3️⃣8️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 3️⃣7️⃣",
             "type": "vless",
             "server": "104.168.107.230",
             "server_port": 8224,
@@ -2472,7 +2442,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 3️⃣9️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 3️⃣8️⃣",
             "type": "vless",
             "server": "104.168.107.230",
             "server_port": 8339,
@@ -2500,7 +2470,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣0️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 3️⃣9️⃣",
             "type": "vless",
             "server": "104.168.107.230",
             "server_port": 8443,
@@ -2528,7 +2498,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣1️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣0️⃣",
             "type": "vless",
             "server": "104.168.107.230",
             "server_port": 8667,
@@ -2556,7 +2526,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣2️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣1️⃣",
             "type": "vless",
             "server": "104.168.107.230",
             "server_port": 8884,
@@ -2584,7 +2554,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣3️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣2️⃣",
             "type": "vless",
             "server": "104.168.107.230",
             "server_port": 9333,
@@ -2612,7 +2582,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣4️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣3️⃣",
             "type": "vless",
             "server": "104.168.107.230",
             "server_port": 9631,
@@ -2640,7 +2610,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣5️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣4️⃣",
             "type": "vless",
             "server": "104.168.107.230",
             "server_port": 9633,
@@ -2668,7 +2638,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣6️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣5️⃣",
             "type": "vless",
             "server": "104.168.107.230",
             "server_port": 9795,
@@ -2696,7 +2666,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣7️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣6️⃣",
             "type": "vless",
             "server": "104.168.107.230",
             "server_port": 9942,
@@ -2724,7 +2694,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣8️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣7️⃣",
             "type": "vless",
             "server": "104.168.107.230",
             "server_port": 9996,
@@ -2752,7 +2722,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣9️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣8️⃣",
             "type": "vless",
             "server": "104.168.107.230",
             "server_port": 10036,
@@ -2780,7 +2750,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 5️⃣0️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | US🇺🇸 | 4️⃣9️⃣",
             "type": "vless",
             "server": "104.168.107.230",
             "server_port": 10050,
@@ -2808,7 +2778,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | SE🇸🇪 | 5️⃣1️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | SE🇸🇪 | 5️⃣0️⃣",
             "type": "vless",
             "server": "5.42.86.225",
             "server_port": 22,
@@ -2836,7 +2806,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | SE🇸🇪 | 5️⃣3️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | SE🇸🇪 | 5️⃣2️⃣",
             "type": "vless",
             "server": "5.42.86.225",
             "server_port": 2052,
@@ -2864,7 +2834,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | SE🇸🇪 | 5️⃣7️⃣",
+            "tag": "رایگان | REALITY | @Nika_Shakarami | Donated | SE🇸🇪 | 5️⃣6️⃣",
             "type": "vless",
             "server": "5.42.86.225",
             "server_port": 6280,
