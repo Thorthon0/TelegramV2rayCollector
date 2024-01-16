@@ -111,9 +111,11 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | REALITY | @prrofile_purple | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @prrofile_purple | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | REALITY | @v2rayNG_Matsuri | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @v2rayNG_Matsuri | SE🇸🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣3️⃣",
@@ -124,6 +126,7 @@
                 "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣7️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣3️⃣",
@@ -202,9 +205,11 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | REALITY | @prrofile_purple | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @prrofile_purple | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | REALITY | @v2rayNG_Matsuri | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @v2rayNG_Matsuri | SE🇸🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣3️⃣",
@@ -215,6 +220,7 @@
                 "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣7️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣3️⃣",
@@ -327,6 +333,62 @@
             }
         },
         {
+            "tag": "رایگان | REALITY | @prrofile_purple | DE🇩🇪 | 0️⃣4️⃣",
+            "type": "vless",
+            "server": "dwarvensniper.uk",
+            "server_port": 26836,
+            "uuid": "664b7dda-d300-42e2-b24c-d85801eead92",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "discord.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "n7G9VwYtUuNPL-31NwVYCpU13wRpJmdIiVw2cA3rZUQ",
+                    "short_id": "27758ade"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @prrofile_purple | DE🇩🇪 | 0️⃣7️⃣",
+            "type": "vless",
+            "server": "drow-ranger.uk",
+            "server_port": 13010,
+            "uuid": "36a59a9a-295b-49ed-b710-ce3fae74e30f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "discord.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ZouT6u-IRVdpMKK-DRYLEohOSEc_Q-onekJ8LrudRl0",
+                    "short_id": "ec6ce007"
+                }
+            }
+        },
+        {
             "tag": "رایگان | REALITY | @v2rayNG_Matsuri | SE🇸🇪 | 0️⃣1️⃣",
             "type": "vless",
             "server": "13.53.133.89",
@@ -383,7 +445,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣2️⃣",
             "type": "vless",
             "server": "472-Join.V2RayTz.sbs",
             "server_port": 443,
@@ -561,6 +623,34 @@
             "tag": "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣1️⃣",
             "type": "vless",
             "server": "5.42.86.225",
+            "server_port": 22,
+            "uuid": "d0c58f27-38d1-49e8-8fe4-52cf857920a9",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "speed.cloudflare.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "6_5ZMSz2jQ7AVokjr2ggOQ6d1qgYwisbDNykHmWO50A",
+                    "short_id": "8f76ccf5bc66820d"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣2️⃣",
+            "type": "vless",
+            "server": "5.42.86.225",
             "server_port": 443,
             "uuid": "38c20917-f773-41da-95f0-f24a58e206ec",
             "flow": "xtls-rprx-vision",
@@ -586,7 +676,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣2️⃣",
+            "tag": "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣3️⃣",
             "type": "vless",
             "server": "5.42.86.225",
             "server_port": 2052,
@@ -614,7 +704,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣3️⃣",
+            "tag": "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣4️⃣",
             "type": "vless",
             "server": "5.42.86.225",
             "server_port": 2053,
@@ -642,7 +732,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣4️⃣",
+            "tag": "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣5️⃣",
             "type": "vless",
             "server": "5.42.86.225",
             "server_port": 2058,
@@ -670,7 +760,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣5️⃣",
+            "tag": "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣6️⃣",
             "type": "vless",
             "server": "5.42.86.225",
             "server_port": 6272,
@@ -698,7 +788,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣6️⃣",
+            "tag": "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣7️⃣",
             "type": "vless",
             "server": "5.42.86.225",
             "server_port": 6280,
