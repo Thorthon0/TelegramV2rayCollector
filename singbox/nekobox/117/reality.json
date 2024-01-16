@@ -106,12 +106,13 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "DE🇩🇪",
+                "CA🇨🇦",
                 "FI🇫🇮",
+                "IR🇮🇷",
                 "SE🇸🇪",
                 "US🇺🇸",
                 "NO🇳🇴",
                 "LV🇱🇻",
-                "TR🇹🇷",
                 "FR🇫🇷"
             ]
         },
@@ -123,13 +124,13 @@
                 "رایگان | REALITY | @prrofile_purple | DE🇩🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @prrofile_purple | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @DailyV2RY | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | REALITY | @vpn_go67 | FI🇫🇮 | 0️⃣1️⃣",
+                "رایگان | REALITY | @Good_V2rayy | IR🇮🇷 | 0️⃣1️⃣",
                 "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @hadisnajafi | Donated | SE🇸🇪 | 0️⃣3️⃣",
@@ -202,7 +203,6 @@
                 "رایگان | REALITY | @V2Hub | Donated | NO🇳🇴 | 0️⃣7️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | NO🇳🇴 | 0️⃣9️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | LV🇱🇻 | 0️⃣8️⃣",
-                "رایگان | REALITY | @V2Hub | Donated | TR🇹🇷 | 1️⃣0️⃣",
                 "رایگان | REALITY | @neda_aghasoltan | Donated | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | REALITY | @sepideh_qolian(nazri) | Donated | FR🇫🇷 | 0️⃣1️⃣"
             ],
@@ -218,12 +218,20 @@
                 "رایگان | REALITY | @prrofile_purple | DE🇩🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @prrofile_purple | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @V2Hub | Donated | DE🇩🇪 | 0️⃣6️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
+            "tag": "CA🇨🇦",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | REALITY | @DailyV2RY | CA🇨🇦 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -234,6 +242,16 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @vpn_go67 | FI🇫🇮 | 0️⃣1️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
+            "tag": "IR🇮🇷",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | REALITY | @Good_V2rayy | IR🇮🇷 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -342,16 +360,6 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @V2Hub | Donated | LV🇱🇻 | 0️⃣8️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "TR🇹🇷",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | REALITY | @V2Hub | Donated | TR🇹🇷 | 1️⃣0️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -495,12 +503,12 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣3️⃣",
             "type": "vless",
-            "server": "kamyarservers.camdvr.org",
+            "server": "my.learn-something.top",
             "server_port": 443,
-            "uuid": "7e2d1645-ee37-458e-bf31-d1694ff352c5",
-            "flow": "",
+            "uuid": "ce704214-0e17-41ef-99ca-b64ce9ed9faf",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -509,7 +517,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "greenpepper.ir",
+                "server_name": "my.learn-something.top",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
@@ -517,86 +525,9 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "pj7hhjVTqfsjNw7vIMQFwT6nzdbHLNAyUveeRhv5vw4",
-                    "short_id": "0960546b"
+                    "public_key": "6dvnCKS-vXF5_QIdmKgv8cZkUR6ki-3snnHOgfZz2Vg",
+                    "short_id": "68c24997"
                 }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@Fnet00",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣2️⃣",
-            "type": "vless",
-            "server": "kamyarservers.camdvr.org",
-            "server_port": 443,
-            "uuid": "2b89fcab-30cd-4665-8f2c-bafed9020d50",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "greenpepper.ir",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "pj7hhjVTqfsjNw7vIMQFwT6nzdbHLNAyUveeRhv5vw4",
-                    "short_id": "0960546b"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@Fnet00",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣3️⃣",
-            "type": "vless",
-            "server": "kamyarservers.camdvr.org",
-            "server_port": 443,
-            "uuid": "b9bec4e7-0c93-4724-91da-368e285cc5b4",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "greenpepper.ir",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "pj7hhjVTqfsjNw7vIMQFwT6nzdbHLNAyUveeRhv5vw4",
-                    "short_id": "0960546b"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@Fnet00",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
@@ -691,6 +622,41 @@
             }
         },
         {
+            "tag": "رایگان | REALITY | @DailyV2RY | CA🇨🇦 | 0️⃣1️⃣",
+            "type": "vless",
+            "server": "104.26.2.186",
+            "server_port": 443,
+            "uuid": "d4b15bf0-c48d-4ea3-b76c-076ec8ca177a",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "nor.pzhabuur.link",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "r9xqYf3TXGXiuUiWewGsA2uMGgqC_WVZOn9WLojL10Q",
+                    "short_id": "9d307375"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "nor.pzhabuur.link",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
             "tag": "رایگان | REALITY | @vpn_go67 | FI🇫🇮 | 0️⃣1️⃣",
             "type": "vless",
             "server": "footlo.argha-v2pedia.monster",
@@ -723,6 +689,34 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @Good_V2rayy | IR🇮🇷 | 0️⃣1️⃣",
+            "type": "vless",
+            "server": "pr.dadnetiran.xyz",
+            "server_port": 12754,
+            "uuid": "fa1661aa-a1e3-4b74-9a2d-1d4d62050bc5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "discord.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "7Ig5GBzwQkBPQ-3gEPgBjTt-6N14VNcW6qgsTW2dKxA",
+                    "short_id": "02085b77"
+                }
             }
         },
         {
@@ -2746,41 +2740,6 @@
                     "public_key": "x3azUw_JKB7nAKTWfCXaHf2XtKEpuH5XfLBhCTWieSE",
                     "short_id": "2d123271"
                 }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @V2Hub | Donated | TR🇹🇷 | 1️⃣0️⃣",
-            "type": "vless",
-            "server": "212.64.199.79",
-            "server_port": 443,
-            "uuid": "0af0090b-4223-4e21-84a6-46b192ff2a60",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trendyol.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "6JqJJ-wIZpy62AitE3hxzdv1DiosZ3UCPwaJQhuq4Qg",
-                    "short_id": "de"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@Catvpns",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
