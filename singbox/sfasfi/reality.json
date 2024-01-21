@@ -116,10 +116,10 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @EliV2ray | TR🇹🇷 | 0️⃣3️⃣",
-                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @forwardv2ray | FI🇫🇮 | 0️⃣4️⃣",
+                "رایگان | REALITY | @proxy_mtm | FI🇫🇮 | 0️⃣3️⃣",
                 "رایگان | REALITY | @vpn_go67 | FI🇫🇮 | 0️⃣1️⃣",
                 "رایگان | REALITY | @TIKTOK_PROXY | FI🇫🇮 | 0️⃣3️⃣"
             ],
@@ -141,7 +141,7 @@
             "tag": "DE🇩🇪",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣2️⃣"
             ],
@@ -153,7 +153,7 @@
             "tag": "FI🇫🇮",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @forwardv2ray | FI🇫🇮 | 0️⃣4️⃣",
+                "رایگان | REALITY | @proxy_mtm | FI🇫🇮 | 0️⃣3️⃣",
                 "رایگان | REALITY | @vpn_go67 | FI🇫🇮 | 0️⃣1️⃣",
                 "رایگان | REALITY | @TIKTOK_PROXY | FI🇫🇮 | 0️⃣3️⃣"
             ],
@@ -197,7 +197,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣2️⃣",
+            "tag": "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣5️⃣",
             "type": "vless",
             "server": "142.132.167.68",
             "server_port": 443,
@@ -302,7 +302,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @forwardv2ray | FI🇫🇮 | 0️⃣4️⃣",
+            "tag": "رایگان | REALITY | @proxy_mtm | FI🇫🇮 | 0️⃣3️⃣",
             "type": "vless",
             "server": "95.216.170.113",
             "server_port": 443,
