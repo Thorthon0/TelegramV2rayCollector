@@ -110,11 +110,11 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "رایگان | REALITY | @EliV2ray | TR🇹🇷 | 0️⃣3️⃣",
+                "رایگان | REALITY | @EliV2ray | TR🇹🇷 | 0️⃣5️⃣",
                 "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | REALITY | @flyv2ray | GB🇬🇧 | 0️⃣7️⃣",
-                "رایگان | REALITY | @forwardv2ray | FI🇫🇮 | 0️⃣6️⃣",
-                "رایگان | REALITY | @forwardv2ray | FI🇫🇮 | 0️⃣7️⃣",
+                "رایگان | REALITY | @mehrosaboran | FI🇫🇮 | 0️⃣4️⃣",
+                "رایگان | REALITY | @vpn_go67 | FI🇫🇮 | 0️⃣1️⃣",
                 "رایگان | REALITY | @TIKTOK_PROXY | FI🇫🇮 | 0️⃣3️⃣"
             ]
         },
@@ -122,11 +122,11 @@
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @EliV2ray | TR🇹🇷 | 0️⃣3️⃣",
+                "رایگان | REALITY | @EliV2ray | TR🇹🇷 | 0️⃣5️⃣",
                 "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | REALITY | @flyv2ray | GB🇬🇧 | 0️⃣7️⃣",
-                "رایگان | REALITY | @forwardv2ray | FI🇫🇮 | 0️⃣6️⃣",
-                "رایگان | REALITY | @forwardv2ray | FI🇫🇮 | 0️⃣7️⃣",
+                "رایگان | REALITY | @mehrosaboran | FI🇫🇮 | 0️⃣4️⃣",
+                "رایگان | REALITY | @vpn_go67 | FI🇫🇮 | 0️⃣1️⃣",
                 "رایگان | REALITY | @TIKTOK_PROXY | FI🇫🇮 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -134,7 +134,7 @@
             "tolerance": 50
         },
         {
-            "tag": "رایگان | REALITY | @EliV2ray | TR🇹🇷 | 0️⃣3️⃣",
+            "tag": "رایگان | REALITY | @EliV2ray | TR🇹🇷 | 0️⃣5️⃣",
             "type": "vless",
             "server": "84.32.230.81",
             "server_port": 443,
@@ -232,7 +232,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @forwardv2ray | FI🇫🇮 | 0️⃣6️⃣",
+            "tag": "رایگان | REALITY | @mehrosaboran | FI🇫🇮 | 0️⃣4️⃣",
             "type": "vless",
             "server": "95.216.170.113",
             "server_port": 443,
@@ -267,7 +267,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @forwardv2ray | FI🇫🇮 | 0️⃣7️⃣",
+            "tag": "رایگان | REALITY | @vpn_go67 | FI🇫🇮 | 0️⃣1️⃣",
             "type": "vless",
             "server": "footlo.argha-v2pedia.monster",
             "server_port": 443,
