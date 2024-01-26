@@ -113,7 +113,7 @@
                 "GB🇬🇧",
                 "FR🇫🇷",
                 "AT🇦🇹",
-                "RU🇷🇺"
+                "CA🇨🇦"
             ]
         },
         {
@@ -135,7 +135,7 @@
                 "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣3️⃣",
-                "رایگان | SS | @forwardv2ray | RU🇷🇺 | 0️⃣1️⃣"
+                "رایگان | SS | @forwardv2ray | CA🇨🇦 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -220,10 +220,10 @@
             "tolerance": 50
         },
         {
-            "tag": "RU🇷🇺",
+            "tag": "CA🇨🇦",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @forwardv2ray | RU🇷🇺 | 0️⃣1️⃣"
+                "رایگان | SS | @forwardv2ray | CA🇨🇦 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -380,12 +380,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @forwardv2ray | RU🇷🇺 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @forwardv2ray | CA🇨🇦 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "vpn-ru.wwp.im",
-            "server_port": 15174,
+            "server": "toronto.telegavpn.org",
+            "server_port": 31024,
             "method": "chacha20-ietf-poly1305",
-            "password": "uxmwamIfxNsXbnZ8dR8Bp1",
+            "password": "nrYs82m83EpGDeF89flnl0",
             "plugin": "",
             "plugin_opts": ""
         },
