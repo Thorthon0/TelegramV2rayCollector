@@ -110,14 +110,16 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣6️⃣"
+                "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @forwardv2ray | FI🇫🇮 | 0️⃣1️⃣"
             ]
         },
         {
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣6️⃣"
+                "رایگان | REALITY | @fnet00 | DE🇩🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @forwardv2ray | FI🇫🇮 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -156,6 +158,34 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @forwardv2ray | FI🇫🇮 | 0️⃣1️⃣",
+            "type": "vless",
+            "server": "test.GozargahVPN.top",
+            "server_port": 443,
+            "uuid": "test",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "eset.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "o58jT1F52V07aKeJ57_3sjkO3hbiC98fQxqLX2DCenQ",
+                    "short_id": "e12784bf"
+                }
             }
         },
         {
