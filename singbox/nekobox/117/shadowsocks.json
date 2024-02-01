@@ -113,7 +113,7 @@
                 "FR🇫🇷",
                 "SE🇸🇪",
                 "DE🇩🇪",
-                "AU🇦🇺"
+                "RU🇷🇺"
             ]
         },
         {
@@ -127,13 +127,12 @@
                 "رایگان | SS | @DeamNet_Proxy | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | SS | @DeamNet_Proxy | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | SS | @DeamNet_Proxy | US🇺🇸 | 0️⃣5️⃣",
-                "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @DeamNet_Proxy | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣4️⃣",
                 "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | SS | @DeamNet_Proxy | AT🇦🇹 | 0️⃣6️⃣",
                 "رایگان | SS | @VmessProtocol | AT🇦🇹 | 0️⃣3️⃣",
                 "رایگان | SS | @DeamNet_Proxy | FR🇫🇷 | 0️⃣7️⃣",
@@ -142,7 +141,7 @@
                 "رایگان | SS | @VmessProtocol | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | SS | @kingofilter | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | AU🇦🇺 | 0️⃣4️⃣"
+                "رایگان | SS | @ROMAX_VPN | RU🇷🇺 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -176,8 +175,7 @@
                 "رایگان | SS | @DeamNet_Proxy | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @DeamNet_Proxy | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | SS | @DeamNet_Proxy | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | SS | @DeamNet_Proxy | US🇺🇸 | 0️⃣5️⃣",
-                "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣"
+                "رایگان | SS | @DeamNet_Proxy | US🇺🇸 | 0️⃣5️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -192,7 +190,7 @@
                 "رایگان | SS | @proxyymeliii | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣4️⃣",
                 "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣1️⃣"
+                "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -243,10 +241,10 @@
             "tolerance": 50
         },
         {
-            "tag": "AU🇦🇺",
+            "tag": "RU🇷🇺",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @OutlineVpnOfficial | AU🇦🇺 | 0️⃣4️⃣"
+                "رایگان | SS | @ROMAX_VPN | RU🇷🇺 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -323,16 +321,6 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "94.131.121.130",
-            "server_port": 49845,
-            "method": "chacha20-ietf-poly1305",
-            "password": "uUjyhRvJrLsMwDFxDUAtar",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
             "tag": "رایگان | SS | @DeamNet_Proxy | GB🇬🇧 | 0️⃣2️⃣",
             "type": "shadowsocks",
             "server": "java.ct.arvancode.eu.Org",
@@ -383,7 +371,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣3️⃣",
             "type": "shadowsocks",
             "server": "series-a2-mec.samanehha.co",
             "server_port": 443,
@@ -435,20 +423,20 @@
         {
             "tag": "رایگان | SS | @VmessProtocol | SE🇸🇪 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "13.49.228.30",
+            "server": "16.171.137.43",
             "server_port": 8080,
-            "method": "2022-blake3-chacha20-poly1305",
-            "password": "3vzi7ehQcOEKQtrxD9bfbKBJqduZyJOvohGuLlfDIS0=",
+            "method": "chacha20-ietf-poly1305",
+            "password": "86rejwo5B5rvqzKBHVLod2FP\/7CG4WzjcXXpRF45GjE=",
             "plugin": "",
             "plugin_opts": ""
         },
         {
             "tag": "رایگان | SS | @VmessProtocol | SE🇸🇪 | 0️⃣2️⃣",
             "type": "shadowsocks",
-            "server": "16.171.137.43",
+            "server": "16.171.198.214",
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
-            "password": "86rejwo5B5rvqzKBHVLod2FP\/7CG4WzjcXXpRF45GjE=",
+            "password": "rNhl2Gl3E\/MxDZUZOw1kQz1RCGcEoXsmudDgwbkAgiI=",
             "plugin": "",
             "plugin_opts": ""
         },
@@ -473,12 +461,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @OutlineVpnOfficial | AU🇦🇺 | 0️⃣4️⃣",
+            "tag": "رایگان | SS | @ROMAX_VPN | RU🇷🇺 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "au-ss.ipracevpn.com",
-            "server_port": 2443,
-            "method": "aes-256-gcm",
-            "password": "StRPmBQw4HLCWZPqR4DHTmImaHFPhjj0PdKCDUwyrSk=",
+            "server": "94.131.121.130",
+            "server_port": 49845,
+            "method": "chacha20-ietf-poly1305",
+            "password": "uUjyhRvJrLsMwDFxDUAtar",
             "plugin": "",
             "plugin_opts": ""
         },
