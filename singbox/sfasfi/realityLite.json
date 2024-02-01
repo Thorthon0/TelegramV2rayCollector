@@ -107,8 +107,7 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣6️⃣",
-                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | REALITY | @V2rayCollectorDonate | RO🇷🇴 | 0️⃣2️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣"
             ]
         },
@@ -117,8 +116,7 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣6️⃣",
-                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | REALITY | @V2rayCollectorDonate | RO🇷🇴 | 0️⃣2️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -161,11 +159,11 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣6️⃣",
+            "tag": "رایگان | REALITY | @V2rayCollectorDonate | RO🇷🇴 | 0️⃣2️⃣",
             "type": "vless",
-            "server": "5.75.170.38",
+            "server": "nodes.mrzb.artydev.ru",
             "server_port": 8443,
-            "uuid": "X4Azadi",
+            "uuid": "964736c9-abc2-400d-b7de-378d9de2e4c0",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -175,35 +173,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "app.hubspot.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "LiOp3R5lcVf2-Qd_yP3q1fPKqTkTu92hjHNNqpiFsiA",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣3️⃣",
-            "type": "vless",
-            "server": "164.90.170.74",
-            "server_port": 443,
-            "uuid": "Venom-Servers",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "cloud.digitalocean.com",
+                "server_name": "discordapp.com",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
@@ -211,8 +181,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "ByI5ywQuT7VC2tbcAp673v8rurHKZ4SK4KNn-wi-dg4",
-                    "short_id": "6f3bed2c"
+                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+                    "short_id": ""
                 }
             }
         },
