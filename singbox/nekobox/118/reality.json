@@ -118,7 +118,8 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣5️⃣",
+                "رایگان | REALITY | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -130,7 +131,8 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣5️⃣",
+                "رایگان | REALITY | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -173,7 +175,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣5️⃣",
+            "tag": "رایگان | REALITY | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣6️⃣",
             "type": "vless",
             "server": "5.75.170.38",
             "server_port": 8443,
@@ -197,6 +199,34 @@
                     "enabled": true,
                     "public_key": "LiOp3R5lcVf2-Qd_yP3q1fPKqTkTu92hjHNNqpiFsiA",
                     "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣3️⃣",
+            "type": "vless",
+            "server": "164.90.170.74",
+            "server_port": 443,
+            "uuid": "Venom-Servers",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "cloud.digitalocean.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ByI5ywQuT7VC2tbcAp673v8rurHKZ4SK4KNn-wi-dg4",
+                    "short_id": "6f3bed2c"
                 }
             }
         },
