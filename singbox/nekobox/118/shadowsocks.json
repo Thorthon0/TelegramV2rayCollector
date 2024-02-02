@@ -120,7 +120,6 @@
                 "AU🇦🇺",
                 "AT🇦🇹",
                 "CN🇨🇳",
-                "PL🇵🇱",
                 "RU🇷🇺"
             ]
         },
@@ -134,7 +133,7 @@
                 "رایگان | SS | @V2rayCollectorDonate | NL🇳🇱 | 0️⃣2️⃣",
                 "رایگان | SS | @DeamNet_Proxy | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @DeamNet_Proxy | GB🇬🇧 | 0️⃣4️⃣",
-                "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣3️⃣",
+                "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @DeamNet_Proxy | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | SS | @DeamNet_Proxy | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | SS | @DeamNet_Proxy | US🇺🇸 | 0️⃣6️⃣",
@@ -145,7 +144,6 @@
                 "رایگان | SS | @OutlineVpnOfficial | AU🇦🇺 | 0️⃣4️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣5️⃣",
                 "رایگان | SS | @yaney_01 | CN🇨🇳 | 0️⃣1️⃣",
-                "رایگان | SS | @forwardv2ray | PL🇵🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | RU🇷🇺 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -189,7 +187,7 @@
             "outbounds": [
                 "رایگان | SS | @DeamNet_Proxy | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @DeamNet_Proxy | GB🇬🇧 | 0️⃣4️⃣",
-                "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣3️⃣"
+                "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -254,16 +252,6 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @yaney_01 | CN🇨🇳 | 0️⃣1️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "PL🇵🇱",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | SS | @forwardv2ray | PL🇵🇱 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -340,7 +328,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @proxy_mtm | GB🇬🇧 | 0️⃣3️⃣",
+            "tag": "رایگان | SS | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
             "type": "shadowsocks",
             "server": "series-a2-mec.samanehha.co",
             "server_port": 443,
@@ -446,16 +434,6 @@
             "server_port": 1020,
             "method": "aes-128-gcm",
             "password": "r",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @forwardv2ray | PL🇵🇱 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "37.252.10.45",
-            "server_port": 47580,
-            "method": "chacha20-ietf-poly1305",
-            "password": "bzlLrRCRHdXp4SSL0voHBS",
             "plugin": "",
             "plugin_opts": ""
         },
