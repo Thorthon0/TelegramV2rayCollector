@@ -121,7 +121,8 @@
                 "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @V2rayCollector | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @Capoit | FI🇫🇮 | 0️⃣2️⃣"
+                "رایگان | REALITY | @Capoit | FI🇫🇮 | 0️⃣2️⃣",
+                "رایگان | REALITY | @forwardv2ray | FI🇫🇮 | 0️⃣5️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -155,7 +156,8 @@
             "tag": "FI🇫🇮",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @Capoit | FI🇫🇮 | 0️⃣2️⃣"
+                "رایگان | REALITY | @Capoit | FI🇫🇮 | 0️⃣2️⃣",
+                "رایگان | REALITY | @forwardv2ray | FI🇫🇮 | 0️⃣5️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -390,6 +392,34 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @forwardv2ray | FI🇫🇮 | 0️⃣5️⃣",
+            "type": "vless",
+            "server": "65.109.1.26",
+            "server_port": 443,
+            "uuid": "091a692a-419f-464d-a4c1-ce4e011df0ea",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "snapp.taxi",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "30S6AAcCf740y4L5Dkd4zq31oXTSjHTiNvQO9-dtunA",
+                    "short_id": "6f11111e"
+                }
             }
         },
         {
