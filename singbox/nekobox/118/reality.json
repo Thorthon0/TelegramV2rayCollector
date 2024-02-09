@@ -127,7 +127,6 @@
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @ARv2ray | CA🇨🇦 | 0️⃣4️⃣",
                 "رایگان | REALITY | @V2rayCollectorDonate | TR🇹🇷 | 0️⃣3️⃣",
-                "رایگان | REALITY | @forwardv2ray | SG🇸🇬 | 0️⃣6️⃣",
                 "رایگان | REALITY | @mehrosaboran | SG🇸🇬 | 0️⃣7️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -172,7 +171,6 @@
             "tag": "SG🇸🇬",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @forwardv2ray | SG🇸🇬 | 0️⃣6️⃣",
                 "رایگان | REALITY | @mehrosaboran | SG🇸🇬 | 0️⃣7️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -400,34 +398,6 @@
                     "enabled": true,
                     "public_key": "ihyTs51u6z63GEvubkvH30ySgk3Vi3hV0b6fVmZJPF0",
                     "short_id": "27fd55f5"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @forwardv2ray | SG🇸🇬 | 0️⃣6️⃣",
-            "type": "vless",
-            "server": "sg.wbno1.xyz",
-            "server_port": 25500,
-            "uuid": "1a90a1b4-d952-4e4c-ba59-5e08f88e429f",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "genshin.hoyoverse.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "CPJT0bYi4QecoRHzNl9cE1kFVKvdBC9b1daRuLIZ7nE",
-                    "short_id": "53e5d91a"
                 }
             }
         },
