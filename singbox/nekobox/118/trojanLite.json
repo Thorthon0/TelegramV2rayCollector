@@ -120,14 +120,12 @@
                 "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣5️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣6️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣7️⃣",
-                "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @oneclickvpnkeys | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @fnet00 | CA🇨🇦 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @forwardv2ray | NL🇳🇱 | 0️⃣3️⃣"
+                "رایگان | TROJAN | @ConfigsHUB | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @fnet00 | CA🇨🇦 | 0️⃣1️⃣"
             ]
         },
         {
@@ -144,14 +142,12 @@
                 "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣5️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣6️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣7️⃣",
-                "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @oneclickvpnkeys | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @fnet00 | CA🇨🇦 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @forwardv2ray | NL🇳🇱 | 0️⃣3️⃣"
+                "رایگان | TROJAN | @ConfigsHUB | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @fnet00 | CA🇨🇦 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -362,9 +358,9 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣1️⃣",
+            "tag": "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣",
             "type": "trojan",
-            "server": "99.79.90.187",
+            "server": "3.135.113.230",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -385,7 +381,7 @@
         {
             "tag": "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣2️⃣",
             "type": "trojan",
-            "server": "3.98.63.128",
+            "server": "99.79.90.187",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -404,11 +400,11 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @oneclickvpnkeys | GB🇬🇧 | 0️⃣1️⃣",
+            "tag": "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣3️⃣",
             "type": "trojan",
-            "server": "uk-04.allhub.ltd",
-            "server_port": 443,
-            "password": "5hHSYThRxb",
+            "server": "3.98.63.128",
+            "server_port": 22222,
+            "password": "telegram-id-directvpn",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -416,18 +412,11 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "uk-04.allhub.ltd",
+                "server_name": "trojan.miwan.co.uk",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/TBHDjkhbgbygcvbjhbfrvVCTipoihbgwbenguyncbkjnsrfgFgYWgbunhgfdklerjfgjhkjnwfhXQWDefpmvfrtzvedfhurtg",
-                "headers": {
-                    "Host": "uk-04.allhub.ltd"
                 }
             }
         },
@@ -460,6 +449,34 @@
             }
         },
         {
+            "tag": "رایگان | TROJAN | @ConfigsHUB | CA🇨🇦 | 0️⃣1️⃣",
+            "type": "trojan",
+            "server": "162.159.1.94",
+            "server_port": 443,
+            "password": "7397ca10-3fa4-459c-9f58-330800df292b",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "6exEa2RpxrVmgn.lowerpingservise.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/kg1gATzuCPEFTouGlCp",
+                "headers": {
+                    "Host": "6exEa2RpxrVmgn.lowerpingservise.ir"
+                }
+            }
+        },
+        {
             "tag": "رایگان | TROJAN | @fnet00 | CA🇨🇦 | 0️⃣1️⃣",
             "type": "trojan",
             "server": "cdn13.cdn2cdn.com",
@@ -485,90 +502,6 @@
                 "headers": {
                     "Host": "cdn13.cdn2cdn.com"
                 }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣1️⃣",
-            "type": "trojan",
-            "server": "172.67.204.84",
-            "server_port": 443,
-            "password": "qj1Dz1CJmFQRhWr1SP80aA",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "cdn-21.gsmxreality.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "443trojan",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @forwardv2ray | CA🇨🇦 | 0️⃣2️⃣",
-            "type": "trojan",
-            "server": "198.41.220.20",
-            "server_port": 443,
-            "password": "e8105dfd24414268b6c7652c63731097",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "avianrecruit.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/6b777a91",
-                "headers": {
-                    "Host": "avianrecruit.com"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @forwardv2ray | NL🇳🇱 | 0️⃣3️⃣",
-            "type": "trojan",
-            "server": "188.114.98.0",
-            "server_port": 443,
-            "password": "01596265-168b-46a7-bcb7-25662c7a9546",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "hdfy7c1.foriran2.eu.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "fYn1ncaQMA1foaK1hpquM",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
