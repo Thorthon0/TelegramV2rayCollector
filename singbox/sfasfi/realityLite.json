@@ -107,15 +107,13 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "رایگان | REALITY | @azadi_az_inja_migzare | GB🇬🇧 | 0️⃣4️⃣",
-                "رایگان | REALITY | @V2rayCollectorDonate | NL🇳🇱 | 0️⃣3️⃣",
+                "رایگان | REALITY | @V2rayCollectorDonate | NL🇳🇱 | 0️⃣5️⃣",
                 "رایگان | REALITY | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣6️⃣",
-                "رایگان | REALITY | @Capoit | NL🇳🇱 | 0️⃣2️⃣",
-                "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @forwardv2ray | SE🇸🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @Capoit | NL🇳🇱 | 0️⃣3️⃣",
+                "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @mehrosaboran | LU🇱🇺 | 0️⃣6️⃣",
                 "رایگان | REALITY | @mehrosaboran | IL🇮🇱 | 0️⃣7️⃣",
-                "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @ROMAX_VPN | SE🇸🇪 | 0️⃣2️⃣"
             ]
         },
@@ -124,15 +122,13 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @azadi_az_inja_migzare | GB🇬🇧 | 0️⃣4️⃣",
-                "رایگان | REALITY | @V2rayCollectorDonate | NL🇳🇱 | 0️⃣3️⃣",
+                "رایگان | REALITY | @V2rayCollectorDonate | NL🇳🇱 | 0️⃣5️⃣",
                 "رایگان | REALITY | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣6️⃣",
-                "رایگان | REALITY | @Capoit | NL🇳🇱 | 0️⃣2️⃣",
-                "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @forwardv2ray | SE🇸🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @Capoit | NL🇳🇱 | 0️⃣3️⃣",
+                "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @mehrosaboran | LU🇱🇺 | 0️⃣6️⃣",
                 "رایگان | REALITY | @mehrosaboran | IL🇮🇱 | 0️⃣7️⃣",
-                "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @ROMAX_VPN | SE🇸🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -168,7 +164,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @V2rayCollectorDonate | NL🇳🇱 | 0️⃣3️⃣",
+            "tag": "رایگان | REALITY | @V2rayCollectorDonate | NL🇳🇱 | 0️⃣5️⃣",
             "type": "vless",
             "server": "104.248.194.223",
             "server_port": 443,
@@ -238,7 +234,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Capoit | NL🇳🇱 | 0️⃣2️⃣",
+            "tag": "رایگان | REALITY | @Capoit | NL🇳🇱 | 0️⃣3️⃣",
             "type": "vless",
             "server": "104.248.194.223",
             "server_port": 443,
@@ -273,7 +269,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣3️⃣",
+            "tag": "رایگان | REALITY | @Capoit | DE🇩🇪 | 0️⃣4️⃣",
             "type": "vless",
             "server": "157.90.161.70",
             "server_port": 443,
@@ -308,7 +304,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣2️⃣",
+            "tag": "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣5️⃣",
             "type": "vless",
             "server": "157.90.161.70",
             "server_port": 443,
@@ -340,34 +336,6 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @forwardv2ray | SE🇸🇪 | 0️⃣6️⃣",
-            "type": "vless",
-            "server": "103.25.85.38",
-            "server_port": 443,
-            "uuid": "a7551511-e2b8-4a19-ac0c-1c320ce4afb5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "addons.mozilla.org",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "7OXAPa32fyCtzBapDtZ8DUj6Bb1M0xD7taJT0TpzI2s",
-                    "short_id": ""
-                }
             }
         },
         {
@@ -438,34 +406,6 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣",
-            "type": "vless",
-            "server": "51.75.86.63",
-            "server_port": 443,
-            "uuid": "974d4696-a900-4d44-b627-9833b8a7b27a",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "flightradar24.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "edge"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "UDABcxpKzAYkuyE4pmST0OSzEUJpQNuSgYIKcgppeh8",
-                    "short_id": "d73382b02fa94fc2"
-                }
             }
         },
         {
