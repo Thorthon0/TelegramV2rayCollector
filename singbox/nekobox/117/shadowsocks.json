@@ -111,7 +111,8 @@
                 "PL🇵🇱",
                 "CA🇨🇦",
                 "AT🇦🇹",
-                "RU🇷🇺"
+                "RU🇷🇺",
+                "SE🇸🇪"
             ]
         },
         {
@@ -131,7 +132,8 @@
                 "رایگان | SS | @DeamNet_Proxy | PL🇵🇱 | 0️⃣4️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣4️⃣",
-                "رایگان | SS | @kingofilter | RU🇷🇺 | 0️⃣2️⃣"
+                "رایگان | SS | @kingofilter | RU🇷🇺 | 0️⃣2️⃣",
+                "رایگان | SS | @ROMAX_VPN | SE🇸🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -209,6 +211,16 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @kingofilter | RU🇷🇺 | 0️⃣2️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
+            "tag": "SE🇸🇪",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | SS | @ROMAX_VPN | SE🇸🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -351,6 +363,16 @@
             "server_port": 49845,
             "method": "chacha20-ietf-poly1305",
             "password": "U13qJ9LDNjIz8WZm2CQiGz",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @ROMAX_VPN | SE🇸🇪 | 0️⃣2️⃣",
+            "type": "shadowsocks",
+            "server": "45.8.147.65",
+            "server_port": 37219,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ETt8vY8HbPwOfk21c3i13h",
             "plugin": "",
             "plugin_opts": ""
         },
