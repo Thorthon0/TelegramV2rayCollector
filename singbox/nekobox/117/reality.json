@@ -120,10 +120,9 @@
                 "رایگان | REALITY | @v2rayng_vpnrog | NL🇳🇱 | 0️⃣6️⃣",
                 "رایگان | REALITY | @v2logy | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @prrofile_purple | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @azadi_az_inja_migzare | GB🇬🇧 | 0️⃣2️⃣",
-                "رایگان | REALITY | @azadi_az_inja_migzare | JP🇯🇵 | 0️⃣3️⃣",
+                "رایگان | REALITY | @azadi_az_inja_migzare | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | REALITY | @azadi_az_inja_migzare | JP🇯🇵 | 0️⃣2️⃣",
                 "رایگان | REALITY | @Outlinev2rayNG | FI🇫🇮 | 0️⃣1️⃣",
                 "رایگان | REALITY | @mehrosaboran | FI🇫🇮 | 0️⃣6️⃣"
             ],
@@ -148,7 +147,6 @@
             "outbounds": [
                 "رایگان | REALITY | @v2logy | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @prrofile_purple | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -159,7 +157,7 @@
             "tag": "GB🇬🇧",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @azadi_az_inja_migzare | GB🇬🇧 | 0️⃣2️⃣"
+                "رایگان | REALITY | @azadi_az_inja_migzare | GB🇬🇧 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -169,7 +167,7 @@
             "tag": "JP🇯🇵",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @azadi_az_inja_migzare | JP🇯🇵 | 0️⃣3️⃣"
+                "رایگان | REALITY | @azadi_az_inja_migzare | JP🇯🇵 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -327,41 +325,6 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣5️⃣",
-            "type": "vless",
-            "server": "hol1.noooooop.top",
-            "server_port": 2926,
-            "uuid": "4389c3cb-f2b2-401e-a99b-6cdf59c1f4f9",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.speedtest.net",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
-                    "short_id": ""
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "xyz",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
             "tag": "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣",
             "type": "vless",
             "server": "51.75.86.63",
@@ -390,7 +353,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @azadi_az_inja_migzare | GB🇬🇧 | 0️⃣2️⃣",
+            "tag": "رایگان | REALITY | @azadi_az_inja_migzare | GB🇬🇧 | 0️⃣1️⃣",
             "type": "vless",
             "server": "144.126.234.182",
             "server_port": 51697,
@@ -418,7 +381,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @azadi_az_inja_migzare | JP🇯🇵 | 0️⃣3️⃣",
+            "tag": "رایگان | REALITY | @azadi_az_inja_migzare | JP🇯🇵 | 0️⃣2️⃣",
             "type": "vless",
             "server": "18.181.197.97",
             "server_port": 10007,
