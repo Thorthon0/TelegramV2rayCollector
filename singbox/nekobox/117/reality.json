@@ -106,7 +106,6 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "DE🇩🇪",
-                "FR🇫🇷",
                 "TR🇹🇷",
                 "NL🇳🇱"
             ]
@@ -119,7 +118,7 @@
                 "رایگان | REALITY | @ipV2Ray | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @ipV2Ray | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @ipV2Ray | DE🇩🇪 | 0️⃣4️⃣",
-                "رایگان | REALITY | @prrofile_purple | FR🇫🇷 | 0️⃣7️⃣",
+                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | TR🇹🇷 | 0️⃣1️⃣",
                 "رایگان | REALITY | @ROMAX_VPN | NL🇳🇱 | 0️⃣2️⃣"
             ],
@@ -134,17 +133,8 @@
                 "رایگان | REALITY | @ipV2Ray | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @ipV2Ray | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @ipV2Ray | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @ipV2Ray | DE🇩🇪 | 0️⃣4️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "FR🇫🇷",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | REALITY | @prrofile_purple | FR🇫🇷 | 0️⃣7️⃣"
+                "رایگان | REALITY | @ipV2Ray | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -311,11 +301,11 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @prrofile_purple | FR🇫🇷 | 0️⃣7️⃣",
+            "tag": "رایگان | REALITY | @forwardv2ray | DE🇩🇪 | 0️⃣3️⃣",
             "type": "vless",
-            "server": "172.232.62.114",
-            "server_port": 80,
-            "uuid": "82e1cf39-6753-411e-a0f2-2e155067b6d7",
+            "server": "Join.V2rayOfficial.Site",
+            "server_port": 443,
+            "uuid": "v2ray__official",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -325,17 +315,24 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "reality172-232-62-114.cleanmark.ir",
+                "server_name": "www.speedtest.net",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "QTUASK_nDearjwIt_ygwF71iQRIACGa-qR1N-YJhPkA",
-                    "short_id": "abd7809d"
+                    "public_key": "kLXon5BH9DZHbyrJJ9dSrmOt1ivHJH8SE_8BkPJFZys",
+                    "short_id": "24e03254"
                 }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "www.speedtest.net",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
