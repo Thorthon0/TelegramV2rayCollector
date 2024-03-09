@@ -138,7 +138,8 @@
                 "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣4️⃣",
                 "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣5️⃣",
-                "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣6️⃣"
+                "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣7️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -209,7 +210,8 @@
                 "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣4️⃣",
                 "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣5️⃣",
-                "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣6️⃣"
+                "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣7️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -458,7 +460,7 @@
             "type": "trojan",
             "server": "1-vmessprotocol-channel-join-for-more-likethis.v2rayng.cfd",
             "server_port": 2053,
-            "password": "cEUMd6O4eI",
+            "password": "Keb1y7k9mj",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -486,7 +488,7 @@
             "type": "trojan",
             "server": "1-vmessprotocol-channel-join-for-more-likethis.v2rayng.cfd",
             "server_port": 2053,
-            "password": "5qUglqCpyW",
+            "password": "cEUMd6O4eI",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -514,7 +516,7 @@
             "type": "trojan",
             "server": "1-vmessprotocol-channel-join-for-more-likethis.v2rayng.cfd",
             "server_port": 2053,
-            "password": "oWKQgOf429",
+            "password": "5qUglqCpyW",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -542,7 +544,7 @@
             "type": "trojan",
             "server": "1-vmessprotocol-channel-join-for-more-likethis.v2rayng.cfd",
             "server_port": 2053,
-            "password": "ApwYvE71Pe",
+            "password": "oWKQgOf429",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -570,7 +572,7 @@
             "type": "trojan",
             "server": "1-vmessprotocol-channel-join-for-more-likethis.v2rayng.cfd",
             "server_port": 2053,
-            "password": "ei9NcBFoqY",
+            "password": "ApwYvE71Pe",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -595,6 +597,34 @@
         },
         {
             "tag": "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣6️⃣",
+            "type": "trojan",
+            "server": "1-vmessprotocol-channel-join-for-more-likethis.v2rayng.cfd",
+            "server_port": 2053,
+            "password": "ei9NcBFoqY",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "1-vmessprotocol-channel-join-for-more-likethis.v2rayng.cfd",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/t.me\/VmessProtocol",
+                "headers": {
+                    "Host": "1-vmessprotocol-channel-join-for-more-likethis.v2rayng.cfd"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣7️⃣",
             "type": "trojan",
             "server": "1-vmessprotocol-channel-join-for-more-likethis.v2rayng.cfd",
             "server_port": 2053,

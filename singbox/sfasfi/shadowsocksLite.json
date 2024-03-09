@@ -112,7 +112,8 @@
                 "رایگان | SS | @OutlineVpnOfficial | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣3️⃣",
-                "رایگان | SS | @forwardv2ray | RU🇷🇺 | 0️⃣1️⃣",
+                "رایگان | SS | @forwardv2ray | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | SS | @forwardv2ray | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | SS | @ROMAX_VPN | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | KR🇰🇷 | 0️⃣2️⃣"
             ]
@@ -127,7 +128,8 @@
                 "رایگان | SS | @OutlineVpnOfficial | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣3️⃣",
-                "رایگان | SS | @forwardv2ray | RU🇷🇺 | 0️⃣1️⃣",
+                "رایگان | SS | @forwardv2ray | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | SS | @forwardv2ray | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | SS | @ROMAX_VPN | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | KR🇰🇷 | 0️⃣2️⃣"
             ],
@@ -196,12 +198,22 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @forwardv2ray | RU🇷🇺 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @forwardv2ray | DE🇩🇪 | 0️⃣2️⃣",
             "type": "shadowsocks",
-            "server": "moscow.telegavpn.com",
-            "server_port": 60422,
+            "server": "3.67.70.16",
+            "server_port": 23456,
             "method": "chacha20-ietf-poly1305",
-            "password": "q0omNv3cACJV1H4o6boB5P",
+            "password": "2ql6YkDqgDP8TCf2HFFMFT",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @forwardv2ray | DE🇩🇪 | 0️⃣3️⃣",
+            "type": "shadowsocks",
+            "server": "jhgvhgvygvolykhvklhgvghvgvgkjhghgggjg.internetir.biz.tr",
+            "server_port": 23456,
+            "method": "chacha20-ietf-poly1305",
+            "password": "WRkSVirXBmOws7saPpzfdu",
             "plugin": "",
             "plugin_opts": ""
         },
