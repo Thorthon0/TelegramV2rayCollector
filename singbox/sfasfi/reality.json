@@ -117,7 +117,7 @@
             "outbounds": [
                 "رایگان | REALITY | @NIM_VPN_ir | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @lrnbymaa | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @FalconPolV2rayNG | NL🇳🇱 | 0️⃣4️⃣",
+                "رایگان | REALITY | @FalconPolV2rayNG | NL🇳🇱 | 0️⃣6️⃣",
                 "رایگان | REALITY | @V2RayTz | FI🇫🇮 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -139,7 +139,7 @@
             "tag": "NL🇳🇱",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @FalconPolV2rayNG | NL🇳🇱 | 0️⃣4️⃣"
+                "رایگان | REALITY | @FalconPolV2rayNG | NL🇳🇱 | 0️⃣6️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -212,7 +212,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @FalconPolV2rayNG | NL🇳🇱 | 0️⃣4️⃣",
+            "tag": "رایگان | REALITY | @FalconPolV2rayNG | NL🇳🇱 | 0️⃣6️⃣",
             "type": "vless",
             "server": "104.248.194.223",
             "server_port": 443,
