@@ -121,13 +121,12 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @NIM_VPN_ir | DE🇩🇪 | 0️⃣5️⃣",
-                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | REALITY | @lrnbymaa | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @kiava | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @kingofilter | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | REALITY | @kingofilter | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @customv2ray | RU🇷🇺 | 0️⃣6️⃣",
                 "رایگان | REALITY | @vless_vmess | TR🇹🇷 | 0️⃣1️⃣",
-                "رایگان | REALITY | @forwardv2ray | NL🇳🇱 | 0️⃣6️⃣",
+                "رایگان | REALITY | @DailyV2RY | NL🇳🇱 | 0️⃣3️⃣",
                 "رایگان | REALITY | @OpenSSTPVpn | NL🇳🇱 | 0️⃣2️⃣",
                 "رایگان | REALITY | @OpenSSTPVpn | NL🇳🇱 | 0️⃣3️⃣"
             ],
@@ -140,10 +139,9 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @NIM_VPN_ir | DE🇩🇪 | 0️⃣5️⃣",
-                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | REALITY | @lrnbymaa | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @kiava | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @kingofilter | DE🇩🇪 | 0️⃣3️⃣"
+                "رایگان | REALITY | @kingofilter | DE🇩🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -173,7 +171,7 @@
             "tag": "NL🇳🇱",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @forwardv2ray | NL🇳🇱 | 0️⃣6️⃣",
+                "رایگان | REALITY | @DailyV2RY | NL🇳🇱 | 0️⃣3️⃣",
                 "رایگان | REALITY | @OpenSSTPVpn | NL🇳🇱 | 0️⃣2️⃣",
                 "رایگان | REALITY | @OpenSSTPVpn | NL🇳🇱 | 0️⃣3️⃣"
             ],
@@ -207,41 +205,6 @@
                     "public_key": "1PNLCQnctUWXBFpRqOu4O7zOHnWM5kFdpSFpqvGW1Go",
                     "short_id": "05cc0af9"
                 }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣7️⃣",
-            "type": "vless",
-            "server": "91.107.186.175",
-            "server_port": 443,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "greenpepper.ir",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "jsI4GV7A_BAjLydaw-XESSwCwCvE1ki7xIFWOZgwjSw",
-                    "short_id": "290c3561"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
@@ -308,7 +271,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @kingofilter | DE🇩🇪 | 0️⃣3️⃣",
+            "tag": "رایگان | REALITY | @kingofilter | DE🇩🇪 | 0️⃣2️⃣",
             "type": "vless",
             "server": "503.quickvpn.shop",
             "server_port": 567,
@@ -392,12 +355,12 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @forwardv2ray | NL🇳🇱 | 0️⃣6️⃣",
+            "tag": "رایگان | REALITY | @DailyV2RY | NL🇳🇱 | 0️⃣3️⃣",
             "type": "vless",
-            "server": "24.144.79.84",
+            "server": "netherlands-08.ptu.ink",
             "server_port": 443,
-            "uuid": "--V2ray_OffiCiaL--",
-            "flow": "",
+            "uuid": "88525cc4-5d68-410a-b122-104e3e6c0f0d",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -406,16 +369,16 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "ege.tabloshop.com",
+                "server_name": "www.microsoft.com",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "RTK43_FYjud6lULc9SVdEAxLivntgeMl861ggIPUdFE",
-                    "short_id": "cff5abb9"
+                    "public_key": "ZFhyJmrGM4eO1ddeeKNM4XHofT3LPPw7AE-g8cFrim4",
+                    "short_id": "8a663230ca5a65ef"
                 }
             }
         },
