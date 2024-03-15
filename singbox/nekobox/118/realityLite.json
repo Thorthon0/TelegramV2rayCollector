@@ -114,7 +114,7 @@
                 "رایگان | REALITY | @ShadowProxy66 | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | REALITY | @v2ray1_ng | NL🇳🇱 | 0️⃣3️⃣",
                 "رایگان | REALITY | @v2ray1_ng | NL🇳🇱 | 0️⃣5️⃣",
-                "رایگان | REALITY | @vless_vmess | TR🇹🇷 | 0️⃣1️⃣",
+                "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @lrnbymaa | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @TVCminer | RU🇷🇺 | 0️⃣3️⃣"
             ]
@@ -127,7 +127,7 @@
                 "رایگان | REALITY | @ShadowProxy66 | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | REALITY | @v2ray1_ng | NL🇳🇱 | 0️⃣3️⃣",
                 "رایگان | REALITY | @v2ray1_ng | NL🇳🇱 | 0️⃣5️⃣",
-                "رایگان | REALITY | @vless_vmess | TR🇹🇷 | 0️⃣1️⃣",
+                "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @lrnbymaa | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @TVCminer | RU🇷🇺 | 0️⃣3️⃣"
             ],
@@ -248,12 +248,12 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @vless_vmess | TR🇹🇷 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣3️⃣",
             "type": "vless",
-            "server": "turkey-01.ptu.ink",
+            "server": "91.107.251.73",
             "server_port": 443,
-            "uuid": "8633c34c-573a-4e2c-b3bf-1b6ea42101f0",
-            "flow": "xtls-rprx-vision",
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -262,17 +262,24 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "www.microsoft.com",
+                "server_name": "ftp.debian.org",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "zGp41QGUA2TBVirEaFS34_n05w38JxQHKbqQxS-iHzM",
-                    "short_id": "cd2ccdd9761335d4"
+                    "public_key": "7OfU0IJewJpkFzK7AhofMDTOnjUlvc2R2BGhmkwR63w",
+                    "short_id": "2c43d820"
                 }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
