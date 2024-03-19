@@ -129,10 +129,10 @@
         {
             "tag": "رایگان | SS | @DeamNet_Proxy | PL🇵🇱 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "54.36.174.181",
-            "server_port": 8000,
-            "method": "aes-256-gcm",
-            "password": "KixLvKzwjekG00rm",
+            "server": "95.164.35.90",
+            "server_port": 8388,
+            "method": "chacha20-ietf-poly1305",
+            "password": "NDg2YWIz",
             "plugin": "",
             "plugin_opts": ""
         },
