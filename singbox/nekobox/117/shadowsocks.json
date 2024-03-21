@@ -110,7 +110,6 @@
                 "IL🇮🇱",
                 "JP🇯🇵",
                 "US🇺🇸",
-                "HK🇭🇰",
                 "NL🇳🇱",
                 "RU🇷🇺"
             ]
@@ -125,7 +124,7 @@
                 "رایگان | SS | @OutlineVpnOfficial | IL🇮🇱 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | JP🇯🇵 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | HK🇭🇰 | 0️⃣5️⃣",
+                "رایگان | SS | @forwardv2ray | NL🇳🇱 | 0️⃣2️⃣",
                 "رایگان | SS | @proxy_mtm | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @proxy_mtm | RU🇷🇺 | 0️⃣3️⃣"
             ],
@@ -185,19 +184,10 @@
             "tolerance": 50
         },
         {
-            "tag": "HK🇭🇰",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | SS | @OutlineVpnOfficial | HK🇭🇰 | 0️⃣5️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
             "tag": "NL🇳🇱",
             "type": "urltest",
             "outbounds": [
+                "رایگان | SS | @forwardv2ray | NL🇳🇱 | 0️⃣2️⃣",
                 "رایگان | SS | @proxy_mtm | NL🇳🇱 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -217,10 +207,10 @@
         {
             "tag": "رایگان | SS | @DeamNet_Proxy | DE🇩🇪 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "94.131.111.32",
-            "server_port": 8388,
+            "server": "18.185.97.90",
+            "server_port": 2087,
             "method": "chacha20-ietf-poly1305",
-            "password": "NGQzMzQz",
+            "password": "zhAoxbzKJ04pXkbRIuB7KuO0dCbFcVXgYFiYB7IOzKM=",
             "plugin": "",
             "plugin_opts": ""
         },
@@ -275,12 +265,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @OutlineVpnOfficial | HK🇭🇰 | 0️⃣5️⃣",
+            "tag": "رایگان | SS | @forwardv2ray | NL🇳🇱 | 0️⃣2️⃣",
             "type": "shadowsocks",
-            "server": "141.98.234.19",
-            "server_port": 44017,
+            "server": "88.210.6.98",
+            "server_port": 60869,
             "method": "chacha20-ietf-poly1305",
-            "password": "l9uKHMJTIbIlHFy7h8VyOQ",
+            "password": "lPT3Mi25IXYP3iWzPJaryQ",
             "plugin": "",
             "plugin_opts": ""
         },
