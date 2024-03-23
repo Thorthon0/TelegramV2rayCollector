@@ -118,8 +118,7 @@
                 "رایگان | SS | @OutlineVpnOfficial | JP🇯🇵 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | SS | @forwardv2ray | FI🇫🇮 | 0️⃣1️⃣",
-                "رایگان | SS | @forwardv2ray | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | SS | @forwardv2ray | NL🇳🇱 | 0️⃣3️⃣",
+                "رایگان | SS | @proxy_mtm | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | KR🇰🇷 | 0️⃣2️⃣",
                 "رایگان | SS | @ROMAX_VPN | KR🇰🇷 | 0️⃣3️⃣"
@@ -137,8 +136,7 @@
                 "رایگان | SS | @OutlineVpnOfficial | JP🇯🇵 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | SS | @forwardv2ray | FI🇫🇮 | 0️⃣1️⃣",
-                "رایگان | SS | @forwardv2ray | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | SS | @forwardv2ray | NL🇳🇱 | 0️⃣3️⃣",
+                "رایگان | SS | @proxy_mtm | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | KR🇰🇷 | 0️⃣2️⃣",
                 "رایگان | SS | @ROMAX_VPN | KR🇰🇷 | 0️⃣3️⃣"
@@ -228,17 +226,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @forwardv2ray | DE🇩🇪 | 0️⃣2️⃣",
-            "type": "shadowsocks",
-            "server": "142.132.163.105",
-            "server_port": 25365,
-            "method": "aes-128-gcm",
-            "password": "Telegram",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @forwardv2ray | NL🇳🇱 | 0️⃣3️⃣",
+            "tag": "رایگان | SS | @proxy_mtm | NL🇳🇱 | 0️⃣1️⃣",
             "type": "shadowsocks",
             "server": "109.107.172.30",
             "server_port": 28190,
