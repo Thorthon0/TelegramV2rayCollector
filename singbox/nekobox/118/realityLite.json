@@ -111,9 +111,9 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @v2ray_swhil | NL🇳🇱 | 0️⃣2️⃣",
-                "رایگان | REALITY | @FAKEOFTVC | ES🇪🇸 | 0️⃣1️⃣",
-                "رایگان | REALITY | @FAKEOFTVC | GB🇬🇧 | 0️⃣2️⃣"
+                "رایگان | REALITY | @v2ray_swhil | NL🇳🇱 | 0️⃣3️⃣",
+                "رایگان | REALITY | @FAKEOFTVC | ES🇪🇸 | 0️⃣2️⃣",
+                "رایگان | REALITY | @FAKEOFTVC | GB🇬🇧 | 0️⃣3️⃣"
             ]
         },
         {
@@ -121,9 +121,9 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @v2ray_swhil | NL🇳🇱 | 0️⃣2️⃣",
-                "رایگان | REALITY | @FAKEOFTVC | ES🇪🇸 | 0️⃣1️⃣",
-                "رایگان | REALITY | @FAKEOFTVC | GB🇬🇧 | 0️⃣2️⃣"
+                "رایگان | REALITY | @v2ray_swhil | NL🇳🇱 | 0️⃣3️⃣",
+                "رایگان | REALITY | @FAKEOFTVC | ES🇪🇸 | 0️⃣2️⃣",
+                "رایگان | REALITY | @FAKEOFTVC | GB🇬🇧 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -165,7 +165,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @v2ray_swhil | NL🇳🇱 | 0️⃣2️⃣",
+            "tag": "رایگان | REALITY | @v2ray_swhil | NL🇳🇱 | 0️⃣3️⃣",
             "type": "vless",
             "server": "allrevolt.r8volt.com",
             "server_port": 8443,
@@ -193,7 +193,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @FAKEOFTVC | ES🇪🇸 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @FAKEOFTVC | ES🇪🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "frc0000000000-00.Cheshmsabz.toP",
             "server_port": 45102,
@@ -221,7 +221,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @FAKEOFTVC | GB🇬🇧 | 0️⃣2️⃣",
+            "tag": "رایگان | REALITY | @FAKEOFTVC | GB🇬🇧 | 0️⃣3️⃣",
             "type": "vless",
             "server": "51.195.157.103",
             "server_port": 45102,
