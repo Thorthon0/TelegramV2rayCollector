@@ -108,14 +108,14 @@
                 "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
-                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣5️⃣",
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣6️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣4️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | RU🇷🇺 | 0️⃣5️⃣",
                 "رایگان | SS | @proxy_mtm | NL🇳🇱 | 0️⃣1️⃣",
-                "رایگان | SS | @proxy_mtm | AT🇦🇹 | 0️⃣2️⃣",
+                "رایگان | SS | @kingofilter | BH🇧🇭 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | CA🇨🇦 | 0️⃣2️⃣"
             ]
@@ -127,14 +127,14 @@
                 "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
-                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣5️⃣",
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣6️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | AT🇦🇹 | 0️⃣4️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | RU🇷🇺 | 0️⃣5️⃣",
                 "رایگان | SS | @proxy_mtm | NL🇳🇱 | 0️⃣1️⃣",
-                "رایگان | SS | @proxy_mtm | AT🇦🇹 | 0️⃣2️⃣",
+                "رایگان | SS | @kingofilter | BH🇧🇭 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | CA🇨🇦 | 0️⃣2️⃣"
             ],
@@ -173,7 +173,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣5️⃣",
+            "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣6️⃣",
             "type": "shadowsocks",
             "server": "series-a2-mec.samanehha.co",
             "server_port": 443,
@@ -243,12 +243,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @proxy_mtm | AT🇦🇹 | 0️⃣2️⃣",
+            "tag": "رایگان | SS | @kingofilter | BH🇧🇭 | 0️⃣1️⃣",
             "type": "shadowsocks",
-            "server": "94.228.169.114",
-            "server_port": 25663,
+            "server": "series-a2-me.varzesh360.co",
+            "server_port": 443,
             "method": "chacha20-ietf-poly1305",
-            "password": "1ef9jGvAyzXLLnjssRFr8M",
+            "password": "Bog0ELmMM9DSxDdQ",
             "plugin": "",
             "plugin_opts": ""
         },
