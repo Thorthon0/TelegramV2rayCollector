@@ -110,8 +110,8 @@
                 "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣4️⃣",
-                "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣6️⃣",
-                "رایگان | SS | @VmessProtocol | FR🇫🇷 | 0️⃣7️⃣",
+                "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣5️⃣",
+                "رایگان | SS | @VmessProtocol | FR🇫🇷 | 0️⃣6️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣3️⃣",
@@ -119,8 +119,7 @@
                 "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | SS | @proxy_mtm | RU🇷🇺 | 0️⃣2️⃣",
-                "رایگان | SS | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | SS | @kingofilter | RU🇷🇺 | 0️⃣2️⃣",
+                "رایگان | SS | @kingofilter | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | CA🇨🇦 | 0️⃣2️⃣"
             ]
@@ -133,8 +132,8 @@
                 "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣4️⃣",
-                "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣6️⃣",
-                "رایگان | SS | @VmessProtocol | FR🇫🇷 | 0️⃣7️⃣",
+                "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣5️⃣",
+                "رایگان | SS | @VmessProtocol | FR🇫🇷 | 0️⃣6️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣3️⃣",
@@ -142,8 +141,7 @@
                 "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | SS | @proxy_mtm | RU🇷🇺 | 0️⃣2️⃣",
-                "رایگان | SS | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | SS | @kingofilter | RU🇷🇺 | 0️⃣2️⃣",
+                "رایگان | SS | @kingofilter | RU🇷🇺 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @ROMAX_VPN | CA🇨🇦 | 0️⃣2️⃣"
             ],
@@ -192,7 +190,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣6️⃣",
+            "tag": "رایگان | SS | @VmessProtocol | NL🇳🇱 | 0️⃣5️⃣",
             "type": "shadowsocks",
             "server": "193.29.139.248",
             "server_port": 8080,
@@ -202,7 +200,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @VmessProtocol | FR🇫🇷 | 0️⃣7️⃣",
+            "tag": "رایگان | SS | @VmessProtocol | FR🇫🇷 | 0️⃣6️⃣",
             "type": "shadowsocks",
             "server": "149.202.82.172",
             "server_port": 3389,
@@ -282,17 +280,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "23.154.136.103",
-            "server_port": 8080,
-            "method": "aes-256-gcm",
-            "password": "KixLvKzwjekG00rm",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @kingofilter | RU🇷🇺 | 0️⃣2️⃣",
+            "tag": "رایگان | SS | @kingofilter | RU🇷🇺 | 0️⃣1️⃣",
             "type": "shadowsocks",
             "server": "moscow.telegavpn.com",
             "server_port": 60422,
