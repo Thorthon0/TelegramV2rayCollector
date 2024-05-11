@@ -127,8 +127,7 @@
                 "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | SS | @kingofilter | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @kingofilter | RU🇷🇺 | 0️⃣3️⃣",
-                "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | SS | @ROMAX_VPN | CA🇨🇦 | 0️⃣2️⃣"
+                "رایگان | SS | @ROMAX_VPN | CA🇨🇦 | 0️⃣1️⃣"
             ]
         },
         {
@@ -156,8 +155,7 @@
                 "رایگان | SS | @proxy_mtm | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | SS | @kingofilter | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | SS | @kingofilter | RU🇷🇺 | 0️⃣3️⃣",
-                "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | SS | @ROMAX_VPN | CA🇨🇦 | 0️⃣2️⃣"
+                "رایگان | SS | @ROMAX_VPN | CA🇨🇦 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -374,17 +372,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "23.157.40.24",
-            "server_port": 8882,
-            "method": "aes-256-gcm",
-            "password": "kDWvXYZoTBcGkC4",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @ROMAX_VPN | CA🇨🇦 | 0️⃣2️⃣",
+            "tag": "رایگان | SS | @ROMAX_VPN | CA🇨🇦 | 0️⃣1️⃣",
             "type": "shadowsocks",
             "server": "23.162.200.213",
             "server_port": 2375,
