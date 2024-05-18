@@ -112,6 +112,7 @@
                 "NL🇳🇱",
                 "FR🇫🇷",
                 "FI🇫🇮",
+                "DE🇩🇪",
                 "CA🇨🇦"
             ]
         },
@@ -131,7 +132,8 @@
                 "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣4️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | FI🇫🇮 | 0️⃣5️⃣",
-                "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣6️⃣"
+                "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣6️⃣",
+                "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣7️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -213,10 +215,20 @@
             "tolerance": 50
         },
         {
+            "tag": "DE🇩🇪",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣6️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
             "tag": "CA🇨🇦",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣6️⃣"
+                "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣7️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -343,7 +355,17 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣6️⃣",
+            "tag": "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣6️⃣",
+            "type": "shadowsocks",
+            "server": "159.100.14.58",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "WRORkymIVzJrtFcQLjgSrp",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣7️⃣",
             "type": "shadowsocks",
             "server": "134.195.196.178",
             "server_port": 804,
