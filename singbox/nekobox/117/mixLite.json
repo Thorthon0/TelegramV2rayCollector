@@ -140,7 +140,6 @@
                 "رایگان | VMESS | @v2Line | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @v2Line | PL🇵🇱 | 0️⃣4️⃣",
                 "رایگان | VMESS | @v2Line | US🇺🇸 | 0️⃣5️⃣",
-                "رایگان | VMESS | @v2Line | GB🇬🇧 | 0️⃣6️⃣",
                 "رایگان | VMESS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @ROMAX_VPN | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @ROMAX_VPN | US🇺🇸 | 0️⃣3️⃣",
@@ -204,7 +203,7 @@
                 "رایگان | VLESS | @Lockey_vpn | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | VLESS | @Lockey_vpn | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @Lockey_vpn | CA🇨🇦 | 0️⃣4️⃣",
-                "رایگان | VLESS | @Lockey_vpn | CA🇨🇦 | 0️⃣5️⃣",
+                "رایگان | VLESS | @Lockey_vpn | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @Lockey_vpn | CR🇨🇷 | 0️⃣6️⃣",
                 "رایگان | VLESS | @Lockey_vpn | CA🇨🇦 | 0️⃣7️⃣",
                 "رایگان | VLESS | @rxv2ray | SE🇸🇪 | 0️⃣1️⃣",
@@ -518,7 +517,6 @@
                 "رایگان | VMESS | @v2Line | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @v2Line | PL🇵🇱 | 0️⃣4️⃣",
                 "رایگان | VMESS | @v2Line | US🇺🇸 | 0️⃣5️⃣",
-                "رایگان | VMESS | @v2Line | GB🇬🇧 | 0️⃣6️⃣",
                 "رایگان | VMESS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @ROMAX_VPN | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @ROMAX_VPN | US🇺🇸 | 0️⃣3️⃣",
@@ -582,7 +580,7 @@
                 "رایگان | VLESS | @Lockey_vpn | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | VLESS | @Lockey_vpn | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @Lockey_vpn | CA🇨🇦 | 0️⃣4️⃣",
-                "رایگان | VLESS | @Lockey_vpn | CA🇨🇦 | 0️⃣5️⃣",
+                "رایگان | VLESS | @Lockey_vpn | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @Lockey_vpn | CR🇨🇷 | 0️⃣6️⃣",
                 "رایگان | VLESS | @Lockey_vpn | CA🇨🇦 | 0️⃣7️⃣",
                 "رایگان | VLESS | @rxv2ray | SE🇸🇪 | 0️⃣1️⃣",
@@ -1939,23 +1937,6 @@
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VMESS | @v2Line | GB🇬🇧 | 0️⃣6️⃣",
-            "type": "vmess",
-            "server": "172.99.190.12",
-            "server_port": 22324,
-            "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
@@ -3499,7 +3480,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @Lockey_vpn | CA🇨🇦 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @Lockey_vpn | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "Zula.ir",
             "server_port": 443,
