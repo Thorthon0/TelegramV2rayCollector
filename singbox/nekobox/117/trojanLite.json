@@ -130,7 +130,8 @@
                 "رایگان | TROJAN | @VmessProtocol | TR🇹🇷 | 0️⃣4️⃣",
                 "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣6️⃣",
-                "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣7️⃣"
+                "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | TROJAN | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣"
             ]
         },
         {
@@ -162,7 +163,8 @@
                 "رایگان | TROJAN | @VmessProtocol | TR🇹🇷 | 0️⃣4️⃣",
                 "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣6️⃣",
-                "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣7️⃣"
+                "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | TROJAN | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -712,6 +714,18 @@
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
+            }
+        },
+        {
+            "tag": "رایگان | TROJAN | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣",
+            "type": "trojan",
+            "server": "104.18.15.166",
+            "server_port": 8443,
+            "password": "auto",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
