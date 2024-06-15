@@ -121,8 +121,7 @@
             "outbounds": [
                 "رایگان | REALITY | @vless_vmess | DK🇩🇰 | 0️⃣2️⃣",
                 "رایگان | REALITY | @vless_vmess | NL🇳🇱 | 0️⃣3️⃣",
-                "رایگان | REALITY | @vless_vmess | DE🇩🇪 | 0️⃣4️⃣",
-                "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣2️⃣"
+                "رایگان | REALITY | @vless_vmess | DE🇩🇪 | 0️⃣4️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -152,8 +151,7 @@
             "tag": "DE🇩🇪",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @vless_vmess | DE🇩🇪 | 0️⃣4️⃣",
-                "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣2️⃣"
+                "رایگان | REALITY | @vless_vmess | DE🇩🇪 | 0️⃣4️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -240,34 +238,6 @@
                     "enabled": true,
                     "public_key": "UQcENeMy3VVqYDJIPm68FVHz9r2lC34ydM5chOKa5RU",
                     "short_id": "18cada"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣2️⃣",
-            "type": "vless",
-            "server": "order.ka-zeit.com",
-            "server_port": 443,
-            "uuid": "350e9274-7fc4-4264-bf4d-22d39d731865",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "wordpress.org",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "B8qEfLWB6ViX4KohhTWtZxr_qU4_g8dqty-rfrmKoBw",
-                    "short_id": ""
                 }
             }
         },
