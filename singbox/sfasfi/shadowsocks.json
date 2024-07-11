@@ -112,7 +112,7 @@
                 "US🇺🇸",
                 "PL🇵🇱",
                 "NL🇳🇱",
-                "AE🇦🇪"
+                "AT🇦🇹"
             ]
         },
         {
@@ -129,7 +129,7 @@
                 "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣4️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣5️⃣",
                 "رایگان | SS | @kingofilter | NL🇳🇱 | 0️⃣4️⃣",
-                "رایگان | SS | @kingofilter | AE🇦🇪 | 0️⃣3️⃣"
+                "رایگان | SS | @kingofilter | AT🇦🇹 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -200,10 +200,10 @@
             "tolerance": 50
         },
         {
-            "tag": "AE🇦🇪",
+            "tag": "AT🇦🇹",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @kingofilter | AE🇦🇪 | 0️⃣3️⃣"
+                "رایگان | SS | @kingofilter | AT🇦🇹 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -310,12 +310,12 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @kingofilter | AE🇦🇪 | 0️⃣3️⃣",
+            "tag": "رایگان | SS | @kingofilter | AT🇦🇹 | 0️⃣3️⃣",
             "type": "shadowsocks",
-            "server": "series-a2-mec.varzesh360.co",
-            "server_port": 443,
+            "server": "95.164.9.144",
+            "server_port": 2927,
             "method": "chacha20-ietf-poly1305",
-            "password": "u17T3BvpYaaiuW2c",
+            "password": "ug4Fu79SEREdFGlt2sUyT4",
             "plugin": "",
             "plugin_opts": ""
         },
